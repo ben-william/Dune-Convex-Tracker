@@ -12,10 +12,10 @@ The website tracks the amount of Convex (CVX) ownership by organizations in the 
 This project is incomplete. Below is a rough outline of what I'd like the final dashboard to display:
 
 * CVX Stats
- * Total / FDV
- * Circ / Mcap
- * % staked, % locked
- * % circ owned by DAOs
+  * Total / FDV
+  * Circ / Mcap
+  * % staked, % locked
+  * % circ owned by DAOs
 
 * Total CVX holdings per DAO over time
  * Wallet, Staked, vlCVX
