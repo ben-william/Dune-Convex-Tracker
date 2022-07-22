@@ -1,6 +1,8 @@
 # Dune-Convex-Tracker
 Tracks Convex cryptocurrency ownership shares by DAOs (companies)
 
+[Live dashboard](https://dune.com/cashoutdefi/dao-owned-cvx)
+
 ## Overview
 
 This is a rebuild of a website I helped design and implement, DAOCVX.com in order to practice my SQL.
